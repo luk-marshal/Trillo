@@ -14,10 +14,16 @@ You can test all effects on the [Trillo demo page](https://luk-marshal.github.io
 
 ## Project know-how
 
-- Of course a lot about flexbox
+- Of course **a lot about flexbox**
 - Usage of SVG sprites
 - CSS custom properties
-- CSS keyword `currentColor`
+- CSS `currentColor` keyword
+- Infinite animations ()
+- Nice hover effect (nav-bar)
+- Responsive Web Design
+- Browser support
+- Development scripts
+- Build process
 
 ## License
 
